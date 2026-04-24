@@ -62,7 +62,7 @@ export default function BlogIndexPage() {
                         '@context': 'https://schema.org',
                         '@type': 'Blog',
                         name: 'ZabZabLab Blog',
-                        url: new URL('/blog', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                        url: new URL('/blog', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                         description: 'Thoughts on color, pattern, and design from ZabZabLab.',
                         publisher: {
                             '@type': 'Organization',

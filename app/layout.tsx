@@ -25,7 +25,7 @@ const lora = Lora({
 })
 
 export const metadata: Metadata = {
-    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com'),
+    metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com'),
     title: {
         default: 'ZabZabLab — Custom Wallpaper & Fabric Design Studio',
         template: '%s | ZabZabLab',
@@ -129,8 +129,8 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
                             '@type': 'Organization',
                             name: 'ZabZabLab',
                             alternateName: 'ZabZabLab Wallpaper and Fabric Design Studio',
-                            url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com'),
-                            logo: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                            url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com'),
+                            logo: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                             description: 'Artist-led wallpaper and fabric design studio specializing in custom colorways, faux texture wallpapers, and trade-friendly services for interior designers.',
                             founder: {
                                 '@type': 'Person',
@@ -170,12 +170,12 @@ export default async function RootLayout({ children }: { children: ReactNode }) 
                             '@context': 'https://schema.org',
                             '@type': 'WebSite',
                             name: 'ZabZabLab — Custom Wallpaper & Fabric Design Studio',
-                            url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com'),
+                            url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com'),
                             inLanguage: 'en',
                             publisher: {
                                 '@type': 'Organization',
                                 name: 'ZabZabLab',
-                                logo: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                                logo: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                             },
                         }),
                     }}

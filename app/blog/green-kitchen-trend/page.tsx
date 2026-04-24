@@ -52,19 +52,19 @@ export default function BlogPostGreenKitchen() {
                                 '@type': 'ListItem',
                                 position: 1,
                                 name: 'Home',
-                                item: new URL('/', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                                item: new URL('/', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                             },
                             {
                                 '@type': 'ListItem',
                                 position: 2,
                                 name: 'Blog',
-                                item: new URL('/blog', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                                item: new URL('/blog', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                             },
                             {
                                 '@type': 'ListItem',
                                 position: 3,
                                 name: 'Why Dark Green Kitchens Attract Buyers',
-                                item: new URL(postUrl, process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                                item: new URL(postUrl, process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                             },
                         ],
                     }),
@@ -80,7 +80,7 @@ export default function BlogPostGreenKitchen() {
                         description:
                             'Notes inspired by research from Zillow and Sherwin-Williams on color and home value.',
                         image: [
-                            new URL('/blog/dark_green_kitchen.jpg', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                            new URL('/blog/dark_green_kitchen.jpg', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                         ],
                         datePublished: '2025-08-24',
                         dateModified: '2025-08-24',
@@ -93,12 +93,12 @@ export default function BlogPostGreenKitchen() {
                             name: 'ZabZabLab',
                             logo: {
                                 '@type': 'ImageObject',
-                                url: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                                url: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                             },
                         },
                         mainEntityOfPage: {
                             '@type': 'WebPage',
-                            '@id': new URL(postUrl, process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
+                            '@id': new URL(postUrl, process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
                         },
                     }),
                 }}

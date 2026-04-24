@@ -31,7 +31,7 @@ export function middleware(request: NextRequest) {
     }
 
     const canonicalHost =
-        process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com'
+        process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com'
     try {
         const canonical = new URL(canonicalHost)
 
