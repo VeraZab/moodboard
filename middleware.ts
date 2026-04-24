@@ -30,7 +30,8 @@ export function middleware(request: NextRequest) {
         return withPathname(request)
     }
 
-    const canonicalHost = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.zabzablab.com'
+    const canonicalHost =
+        process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com'
     try {
         const canonical = new URL(canonicalHost)
 

@@ -22,21 +22,21 @@
 
 - Designer: Vera
 - Location: New Jersey, USA
-- Website: https://www.zabzablab.com
+- Website: https://www.hugyourwalls.com
 - Contact: zabzablab@gmail.com
 - Instagram: https://www.instagram.com/zabzablab
 
 ## Site pages
 
-- [Portfolio](https://www.zabzablab.com/): Browse wallpaper and fabric design collections
-- [About](https://www.zabzablab.com/about): About Vera, the designer behind ZabZabLab
-- [For Interior Designers](https://www.zabzablab.com/for-interior-designers): Trade services — color matching, resizing, commissions, trade benefits
-- [Faux Fabric Textures](https://www.zabzablab.com/designs/faux-fabric): Curated faux linen, grasscloth, canvas, basketweave, and tweed texture wallpaper and fabric — with room-by-room "best for" recommendations
-- [Faux Stone Textures](https://www.zabzablab.com/designs/faux-stone): Faux stone texture wallpaper
-- [Faux Limewash Textures](https://www.zabzablab.com/designs/faux-limewash): Faux limewash and plaster texture wallpaper
-- [Resize / Recolor Request](https://www.zabzablab.com/resize-recolor-request): Submit a custom color match or resize request
-- [Blog](https://www.zabzablab.com/blog): Articles on color trends, pattern, and interior design
+- [Portfolio](https://www.hugyourwalls.com/): Browse wallpaper and fabric design collections
+- [About](https://www.hugyourwalls.com/about): About Vera, the designer behind ZabZabLab
+- [For Interior Designers](https://www.hugyourwalls.com/for-interior-designers): Trade services — color matching, resizing, commissions, trade benefits
+- [Faux Fabric Textures](https://www.hugyourwalls.com/designs/faux-fabric): Curated faux linen, grasscloth, canvas, basketweave, and tweed texture wallpaper and fabric — with room-by-room "best for" recommendations
+- [Faux Stone Textures](https://www.hugyourwalls.com/designs/faux-stone): Faux stone texture wallpaper
+- [Faux Limewash Textures](https://www.hugyourwalls.com/designs/faux-limewash): Faux limewash and plaster texture wallpaper
+- [Resize / Recolor Request](https://www.hugyourwalls.com/resize-recolor-request): Submit a custom color match or resize request
+- [Blog](https://www.hugyourwalls.com/blog): Articles on color trends, pattern, and interior design
 
 ## Optional
 
-- [Full content version](https://www.zabzablab.com/llms-full.txt)
+- [Full content version](https://www.hugyourwalls.com/llms-full.txt)

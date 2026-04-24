@@ -68,7 +68,7 @@ export default function FauxFabricPage() {
                                 name: 'Can faux fabric wallpaper be color customized?',
                                 acceptedAnswer: {
                                     '@type': 'Answer',
-                                    text: 'Yes. Every ZabZabLab faux fabric texture — linen, grasscloth, canvas, basketweave, and tweed — can be color customized to match your palette, adjusted to scale, or rotated. Submit a customization request at zabzablab.com/resize-recolor-request.',
+                                    text: 'Yes. Every ZabZabLab faux fabric texture — linen, grasscloth, canvas, basketweave, and tweed — can be color customized to match your palette, adjusted to scale, or rotated. Submit a customization request at hugyourwalls.com/resize-recolor-request.',
                                 },
                             },
                             {

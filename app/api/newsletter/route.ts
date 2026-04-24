@@ -43,7 +43,7 @@ export async function POST(request: NextRequest) {
             },
             body: JSON.stringify({
                 email,
-                _subject: 'Newsletter signup from zabzablab.com',
+                _subject: 'Newsletter signup from hugyourwalls.com',
             }),
         })
 
