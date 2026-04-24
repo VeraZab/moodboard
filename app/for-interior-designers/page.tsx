@@ -44,13 +44,13 @@ export default function ForInteriorDesignersPage() {
                                 '@type': 'ListItem',
                                 position: 1,
                                 name: 'Home',
-                                item: new URL('/', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
+                                item: new URL('/', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
                             },
                             {
                                 '@type': 'ListItem',
                                 position: 2,
                                 name: 'For Interior Designers',
-                                item: new URL('/for-interior-designers', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
+                                item: new URL('/for-interior-designers', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
                             },
                         ],
                     }),
@@ -69,8 +69,8 @@ export default function ForInteriorDesignersPage() {
                         provider: {
                             '@type': 'Organization',
                             name: 'ZabZabLab',
-                            url: process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com',
-                            logo: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
+                            url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com',
+                            logo: new URL('/assets/zabzablab.png', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
                         },
                         areaServed: {
                             '@type': 'Country',
@@ -107,7 +107,7 @@ export default function ForInteriorDesignersPage() {
                                 },
                             ],
                         },
-                        url: new URL('/for-interior-designers', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
+                        url: new URL('/for-interior-designers', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
                     }),
                 }}
             />

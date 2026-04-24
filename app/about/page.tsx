@@ -11,15 +11,15 @@ export default function AboutPage() {
                         '@context': 'https://schema.org',
                         '@type': 'Person',
                         name: 'ZabZabLab Wallpaper Design Studio by Vera',
-                        url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com') + '/about',
-                        image: new URL('/assets/about.jpg', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
+                        url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com') + '/about',
+                        image: new URL('/assets/about.jpg', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
                         sameAs: [
                             'https://www.instagram.com/zabzablab',
                         ],
                         worksFor: {
                             '@type': 'Organization',
                             name: 'ZabZabLab',
-                            url: process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com',
+                            url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com',
                         },
                         jobTitle: 'Wallpaper Designer, owner of ZabZabLab Studio',
                     }),

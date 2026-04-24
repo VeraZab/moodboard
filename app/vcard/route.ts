@@ -10,7 +10,7 @@ function buildVCard(): string {
     'FN:ZabZabLab (Vera)',
     'ORG:ZabZabLab',
     'EMAIL;TYPE=INTERNET;TYPE=WORK:zabzablab@gmail.com',
-    'URL;TYPE=WORK:https://hugyourwalls.com',
+    'URL;TYPE=WORK:https://www.hugyourwalls.com',
     'X-SOCIALPROFILE;type=instagram:https://instagram.com/zabzablab',
     'END:VCARD',
   ];

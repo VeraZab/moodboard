@@ -37,12 +37,12 @@ export default function ResizeRecolorRequestPage() {
                         '@context': 'https://schema.org',
                         '@type': 'WebPage',
                         name: 'Resize/Recolor Request',
-                        url: new URL('/resize-recolor-request', process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com').toString(),
+                        url: new URL('/resize-recolor-request', process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com').toString(),
                         description: 'Submit a request to resize or recolor a design.',
                         isPartOf: {
                             '@type': 'WebSite',
                             name: 'ZabZabLab Wallpaper and Fabric Design Studio',
-                            url: process.env.NEXT_PUBLIC_SITE_URL || 'https://hugyourwalls.com',
+                            url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.hugyourwalls.com',
                         },
                     }),
                 }}
